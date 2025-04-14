@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Madhubalan-123/Madhubalan-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Madhubalan/Madhubalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
